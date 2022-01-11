@@ -7,6 +7,6 @@ nav:
     - 'Getting Started': 'how-to.md'
 
 repo_url: https://github.com/axelschacher/sse-mkdocs-exercise
-edit_uri: edit/main/docs/
+edit_uri: edit/master/docs/
 
 site_author: axelschacher
